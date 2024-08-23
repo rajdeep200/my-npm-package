@@ -1,0 +1,23 @@
+{
+  "name": "@grajdeep-dev/check-mobile-number",
+  "version": "1.0.0",
+  "description": "Check if it's a valid mobile number or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rajdeep200@github.com/rajdeep200/my-npm-package.git"
+  },
+  "keywords": [
+    "check",
+    "number"
+  ],
+  "author": "Rajdeep Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajdeep200/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/rajdeep200/my-npm-package#readme"
+}
